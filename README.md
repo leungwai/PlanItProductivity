@@ -22,7 +22,7 @@ We felt that existing calendaring apps (at the time) are very complicated to use
 4. Two calendar views (daily and monthly/weekly) in the same page. 
 5. Material Design throughout the entire app
 
-### This project showcases:
+### This Project Showcases:
 - 📚 Full stack web development
   - **SQLAlchemy** for the ORM
   - **Flask** for the backend framework
@@ -31,7 +31,7 @@ We felt that existing calendaring apps (at the time) are very complicated to use
 - 🔍 Attention to detail for spacing for various elements to keep true to the true Instagram post
 - 📱 Adaptive to various screen sizes
 
-### My contributions
+### My Contributions
 - I was responsible for the UI/UX of Planit, signup/login, event creation and update, and categories view.
   
 ### Screenshots
