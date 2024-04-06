@@ -38,7 +38,11 @@ We felt that existing calendaring apps (at the time) are very complicated to use
 ![Home View](homeview.png)
 > Home View
 
+![Categories View](categories.png)
+> Categories View
 
+![Event Creation View](eventcreation.png)
+> Event Creation View
 
 ### To Improve for V2
 - [ ] Recurrences for tasks
