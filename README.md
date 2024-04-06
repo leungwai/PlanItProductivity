@@ -1,7 +1,9 @@
 # Planit Productivity App
-_Because your world should revolve around you_
 
-_\#Vuetify \#VueJS \#Flask_
+![Planit logo and slogan](/logo.png)
+
+
+_\#Vuetify \#VueJS \#Flask \#SQLAlchemy_ 
 
 **Created with Carmen Yip \(@imcalledmichaela\) and Noah Li Anderson \(@nlanderson-wustl\)**
 
@@ -32,7 +34,11 @@ We felt that existing calendaring apps (at the time) are very complicated to use
 ### My contributions
 - I was responsible for the UI/UX of Planit, signup/login, event creation and update, and categories view.
   
-### Screenshot
+### Screenshots
+![Home View](homeview.png)
+> Home View
+
+
 
 ### To Improve for V2
 - [ ] Recurrences for tasks
