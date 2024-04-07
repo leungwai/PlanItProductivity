@@ -1,4 +1,4 @@
-# Planit Productivity App
+# 🗓️ Planit Productivity App
 
 ![Planit logo and slogan](/logo.png)
 
