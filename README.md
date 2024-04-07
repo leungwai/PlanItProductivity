@@ -2,12 +2,11 @@
 
 ![Planit logo and slogan](/logo.png)
 
-
-_\#Vuetify \#VueJS \#Flask \#SQLAlchemy_ 
-
 **Created with Carmen Yip \(@imcalledmichaela\) and Noah Li Anderson \(@nlanderson-wustl\)**
 
 Productivity App created for Software Engineering Class
+
+_\#Vuetify \#VueJS \#Flask \#SQLAlchemy_ 
 
 > [!IMPORTANT]
 > The app does not work now, as the backend servers are down. Please refer to screenshots for what Planit Looks like.
