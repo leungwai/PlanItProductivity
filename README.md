@@ -27,7 +27,6 @@ We felt that existing calendaring apps (at the time) are very complicated to use
   - **Flask** for the backend framework
   - **Vue.js** for frontend framework
 - 🏃‍♂️ Agile development with teammates
-- 🔍 Attention to detail for spacing for various elements to keep true to the true Instagram post
 - 📱 Adaptive to various screen sizes
 
 ## My Contributions
