@@ -9,7 +9,7 @@ Productivity App created for Software Engineering Class
 _\#Vuetify \#VueJS \#Flask \#SQLAlchemy_ 
 
 > [!IMPORTANT]
-> The app does not work now, as the backend servers are down. Please refer to screenshots for what Planit Looks like.
+> The app does not work now, as the backend servers are down. Please refer to screenshots for what Planit looks like.
 
 ## Premise
 We felt that existing calendaring apps (at the time) are very complicated to use, or would take some configuring to show directly to the user what tasks they have up next. Instead of focusing on event management, PlanIt seeks to focus more on task planning and time management.
